@@ -30,7 +30,8 @@ The complete analysis, modeling, and evaluation are implemented in **Google Cola
 ## 🤖 Models Implemented
 - Logistic Regression  
 - Decision Tree Classifier  
-- Random Forest Classifier  
+- Random Forest Classifier
+- XGBoost
 
 > Random Forest achieved the best overall performance.
 
